@@ -37,7 +37,7 @@ var pJS = function(tag_id, params){
         }
       },
       opacity: {
-        value: 72,
+        value: .72,
         random: true,
         anim: {
           enable: false,
